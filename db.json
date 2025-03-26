@@ -2,7 +2,7 @@
   "recipes": [
     {
       "id": 1,
-      "image": "spaghetti_jpeg",
+      "image": "imgs/spaghetti.jpeg",
       "name": "ropiru-ramen",
       "ingredients": [
         "salt",
@@ -24,7 +24,7 @@
     },
     {
       "id": 2,
-      "image": "american_pancakes.jpeg",
+      "image": "imgs/american_pancakes.jpeg",
       "name": "Pancakes",
       "ingredients": [
         "flour",
@@ -44,7 +44,7 @@
     },
     {
       "id": 3,
-      "image": "caesar_salad.jpeg",
+      "image": "imgs/ceaser_.jpeg",
       "name": "Caesar Salad",
       "ingredients": [
         "lettuce",
@@ -64,7 +64,7 @@
     },
     {
       "id": 4,
-      "image": "fried_chicken.jpeg",
+      "image": "imgs/fried_rice.jpeg",
       "name": "Chicken Curry",
       "ingredients": [
         "chicken",
@@ -86,7 +86,7 @@
     },
     {
       "id": 5,
-      "image": "beef_burger.jpeg",
+      "image": "imgs/beef_burger.jpeg",
       "name": "Beef Burger",
       "ingredients": [
         "beef patty",
@@ -108,7 +108,7 @@
     },
     {
       "id": 6,
-      "image": "spinach_lasagna.jpeg",
+      "image": "imgs/spinach_lasagna.jpeg",
       "name": "Lasagna",
       "ingredients": [
         "lasagna noodles",
@@ -129,7 +129,7 @@
     },
     {
       "id": 7,
-      "image": "mango_berry_smoothie.jpeg",
+      "image": "imgs/Mango-Berry Smoothie.jpeg",
       "name": "Fruit Smoothie",
       "ingredients": [
         "banana",
@@ -148,7 +148,7 @@
     },
     {
       "id": 8,
-      "image": "cheese_omelette.jpeg",
+      "image": "imgs/cheese_omelette.jpeg",
       "name": "Cheese Omelette",
       "ingredients": ["eggs", "cheese", "salt", "pepper", "butter"],
       "steps": [
@@ -160,7 +160,7 @@
     },
     {
       "id": 9,
-      "image": "fried_rice.jpeg",
+      "image": "imgs/fried_rice.jpeg",
       "name": "Fried Rice",
       "ingredients": [
         "rice",
@@ -181,7 +181,7 @@
     },
     {
       "id": 10,
-      "image": "chocolate_cake.jpeg",
+      "image": "imgs/chocolate_cake.jpeg",
       "name": "Chocolate Cake",
       "ingredients": [
         "flour",
