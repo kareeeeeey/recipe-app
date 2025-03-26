@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const recipeContainer = document.getElementById("recipes-container");
   const form = document.getElementById("recipe-form");
 
-  // Fetch and render all recipes
+  
   fetch(baseURL)
     .then((res) => res.json())
     .then((recipes) => {
@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
     })
     .catch((err) => console.error("Failed to fetch recipes", err));
 
-  // Render a single recipe card
+
   function renderRecipe(recipe) {
     const card = document.createElement("div");
     card.classList.add("recipe-card");
@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
       <button class="delete-btn">Delete</button>
     `;
 
-    // View details
+    
     card.querySelector(".view-btn").addEventListener("click", () => {
       alert(
         `🍽 ${recipe.name}\n\nIngredients:\n- ${recipe.ingredients.join(
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
       );
     });
 
-    // Delete recipe
+  
     card.querySelector(".delete-btn").addEventListener("click", () => {
       fetch(`${baseURL}/${recipe.id}`, {
         method: "DELETE",
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .catch((err) => console.error("Failed to delete", err));
     });
 
-    // Edit recipe (patch name only)
+    
     card.querySelector(".edit-btn").addEventListener("click", () => {
       const newName = prompt("Edit recipe name:", recipe.name);
       if (newName && newName.trim() !== "") {
@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", () => {
     recipeContainer.appendChild(card);
   }
 
-  // Add new recipe (POST)
+  
   form.addEventListener("submit", (e) => {
     e.preventDefault();
 
@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .filter(Boolean),
     };
 
-    // Basic validation
+    
     if (
       !newRecipe.name ||
       !newRecipe.image ||
