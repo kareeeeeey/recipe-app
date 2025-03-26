@@ -1,0 +1,107 @@
+/* NAVIGATION BAR */
+.nav-items {
+  text-align: center;
+  font-size: 40px;
+  background-color: transparent;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: center; /* keeps nav items to the right */
+  padding: 20px;
+  list-style: none;
+  margin: 0;
+}
+
+.nav-items li a {
+  text-decoration: none;
+  color:black;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.nav-items li a:hover {
+  color: peru;
+  text-decoration: underline;
+}
+
+/* HEADER TEXT */
+.info {
+  position: relative;
+  z-index: 2; /* ensures text sits above overlay */
+  padding: 100px 50px;
+  max-width: 800px;
+}
+
+.info h1 {
+  font-size: 65px;
+  color: #442d1c;
+  margin: 0;
+}
+
+.info h3 {
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+.info span {
+  color: peru;
+}
+
+/* BACKGROUND IMAGE + OVERLAY */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url("imgs/Free Photo _ Top view indian food frame with copy-space.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  min-height: 100vh;
+  color: #222;
+}
+
+.info p{
+  color: white;
+}
+
+#recipe-list{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* responsive columns */
+  gap: 20px; /* space between items */
+  padding: 20px;
+}
+
+/* RECIPE CARD STYLING */
+.recipe-card {
+  background-color: rgba(255, 255, 255, 0.85); /* slightly transparent white */
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.recipe-card:hover {
+  transform: translateY(-5px); /* adds a slight lift on hover */
+}
+
+.recipe-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.recipe-card h3 {
+  font-size: 22px;
+  color: #442d1c;
+  margin-bottom: 10px;
+}
+
+.recipe-card p {
+  font-size: 14px;
+  color: #444;
+  line-height: 1.4;
+}

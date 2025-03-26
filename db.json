@@ -1,0 +1,205 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "image": "imgs/_ (4).jpeg",
+      "name": "ropiru-ramen",
+      "ingredients": [
+        "salt",
+        "sugar",
+        "flour",
+        "oil",
+        "eggs",
+        "milk",
+        "cheese",
+        "pasta"
+      ],
+      "steps": [
+        "Boil water and cook the pasta.",
+        "In a pan, heat some oil and add the eggs, stirring constantly.",
+        "Drain the pasta and mix with the egg mixture.",
+        "Add cheese, salt, and pepper to taste.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "id": 2,
+      "image": "imgs/American Pancakes Recipe.jpeg",
+      "name": "Pancakes",
+      "ingredients": [
+        "flour",
+        "milk",
+        "eggs",
+        "sugar",
+        "baking powder",
+        "butter"
+      ],
+      "steps": [
+        "In a bowl, whisk together flour, baking powder, sugar, and salt.",
+        "In a separate bowl, whisk together milk, eggs, and melted butter.",
+        "Add the wet ingredients to the dry ingredients and mix until smooth.",
+        "Heat a pan over medium heat and pour batter to form pancakes.",
+        "Cook until bubbles form on the surface, then flip and cook until golden brown."
+      ]
+    },
+    {
+      "id": 3,
+      "image": "imgs/_ (9).jpeg",
+      "name": "Caesar Salad",
+      "ingredients": [
+        "lettuce",
+        "croutons",
+        "parmesan cheese",
+        "caesar dressing",
+        "salt",
+        "pepper"
+      ],
+      "steps": [
+        "Wash and chop the lettuce.",
+        "In a large bowl, combine the lettuce, croutons, and parmesan cheese.",
+        "Drizzle with caesar dressing and toss to coat.",
+        "Season with salt and pepper to taste.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "id": 4,
+      "image": "imgs/Crispy Fried Chicken Recipe That Will Make Your Taste Buds Sing 🎶 - NewsBreak.jpeg",
+      "name": "Chicken Curry",
+      "ingredients": [
+        "chicken",
+        "onion",
+        "garlic",
+        "ginger",
+        "tomatoes",
+        "spices",
+        "oil",
+        "coconut milk"
+      ],
+      "steps": [
+        "Heat oil in a pan and sauté onions, garlic, and ginger.",
+        "Add chicken pieces and cook until browned.",
+        "Add chopped tomatoes and spices, cook until fragrant.",
+        "Pour in coconut milk and simmer for 20 minutes.",
+        "Serve with rice or bread."
+      ]
+    },
+    {
+      "id": 5,
+      "image": "imgs/crack burgers -.jpeg",
+      "name": "Beef Burger",
+      "ingredients": [
+        "beef patty",
+        "burger buns",
+        "cheese",
+        "lettuce",
+        "tomato",
+        "onion",
+        "ketchup",
+        "mustard"
+      ],
+      "steps": [
+        "Cook the beef patty on a grill or pan.",
+        "Toast the burger buns lightly.",
+        "Assemble the burger by placing cheese on the patty, then adding lettuce, tomato, and onion.",
+        "Top with ketchup and mustard, and close the bun.",
+        "Serve with fries."
+      ]
+    },
+    {
+      "id": 6,
+      "image": "imgs/Spinach and Sausage Lasagna.jpeg",
+      "name": "Lasagna",
+      "ingredients": [
+        "lasagna noodles",
+        "ground beef",
+        "tomato sauce",
+        "cheese",
+        "onion",
+        "garlic",
+        "herbs"
+      ],
+      "steps": [
+        "Cook lasagna noodles according to package instructions.",
+        "Sauté onions and garlic, then add ground beef and cook until browned.",
+        "Add tomato sauce and herbs, simmer for 15 minutes.",
+        "Layer noodles, meat sauce, and cheese in a baking dish.",
+        "Bake at 375°F (190°C) for 30 minutes."
+      ]
+    },
+    {
+      "id": 7,
+      "image": "imgs/Mango-Berry Smoothie.jpeg",
+      "name": "Fruit Smoothie",
+      "ingredients": [
+        "banana",
+        "strawberries",
+        "blueberries",
+        "yogurt",
+        "honey",
+        "ice cubes"
+      ],
+      "steps": [
+        "Place all fruits, yogurt, and ice cubes in a blender.",
+        "Add a drizzle of honey.",
+        "Blend until smooth.",
+        "Serve in glasses and enjoy!"
+      ]
+    },
+    {
+      "id": 8,
+      "image": "imgs/_ (5).jpeg",
+      "name": "Cheese Omelette",
+      "ingredients": ["eggs", "cheese", "salt", "pepper", "butter"],
+      "steps": [
+        "Crack eggs into a bowl and whisk with salt and pepper.",
+        "Heat butter in a pan and pour in the egg mixture.",
+        "Cook on low heat until the eggs are set, then sprinkle cheese on top.",
+        "Fold the omelette and serve."
+      ]
+    },
+    {
+      "id": 9,
+      "image": "imgs/Nigerian Fried Rice.jpeg",
+      "name": "Fried Rice",
+      "ingredients": [
+        "rice",
+        "eggs",
+        "carrot",
+        "peas",
+        "soy sauce",
+        "onion",
+        "oil"
+      ],
+      "steps": [
+        "Cook rice and let it cool.",
+        "In a pan, heat oil and sauté onions and carrots.",
+        "Add beaten eggs and scramble.",
+        "Add cooled rice, peas, and soy sauce.",
+        "Stir fry for a few minutes and serve."
+      ]
+    },
+    {
+      "id": 10,
+      "image": "imgs/Decadent Strawberry Chocolate Fantasy Ice Cream Cake (1).jpeg",
+      "name": "Chocolate Cake",
+      "ingredients": [
+        "flour",
+        "cocoa powder",
+        "sugar",
+        "butter",
+        "eggs",
+        "milk",
+        "baking powder",
+        "vanilla"
+      ],
+      "steps": [
+        "Preheat the oven to 350°F (175°C).",
+        "Mix flour, cocoa powder, baking powder, and sugar.",
+        "Add butter, eggs, milk, and vanilla, and mix until smooth.",
+        "Pour the batter into a greased cake pan and bake for 30-35 minutes.",
+        "Allow the cake to cool before frosting and serving."
+      ]
+    }
+  ]
+}
