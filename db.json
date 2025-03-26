@@ -44,7 +44,7 @@
     },
     {
       "id": 3,
-      "image": "imgs/imgs/Caesar Salad with Homemade Caesar Salad Dressing - Cooking Classy.jpeg",
+      "image": "imgs/_ (9).jpeg",
       "name": "Caesar Salad",
       "ingredients": [
         "lettuce",
@@ -64,7 +64,7 @@
     },
     {
       "id": 4,
-      "image": "Authentic Indian Chicken Curry _ How To Make In Easiest Ways!.jpeg",
+      "image": "imgs/Crispy Fried Chicken Recipe That Will Make Your Taste Buds Sing 🎶 - NewsBreak.jpeg",
       "name": "Chicken Curry",
       "ingredients": [
         "chicken",
@@ -148,7 +148,7 @@
     },
     {
       "id": 8,
-      "image": "Are you prepared to create a mouthwatering egg omelette_.jpeg",
+      "image": "imgs/_ (5).jpeg",
       "name": "Cheese Omelette",
       "ingredients": ["eggs", "cheese", "salt", "pepper", "butter"],
       "steps": [
