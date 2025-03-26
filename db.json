@@ -1,7 +1,7 @@
 {
   "recipes": [
     {
-      "id": 1,
+      "id": "1",
       "image": "imgs/spaghetti.jpeg",
       "name": "spaghetti",
       "ingredients": [
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "image": "imgs/american_pancakes.jpeg",
       "name": "Pancakes",
       "ingredients": [
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "image": "imgs/ceaser_.jpeg",
       "name": "Caesar Salad",
       "ingredients": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "image": "imgs/chicken_curry.jpeg",
       "name": "Chicken Curry",
       "ingredients": [
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": "5",
       "image": "imgs/beef_burger.jpeg",
       "name": "Beef Burger",
       "ingredients": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": "6",
       "image": "imgs/spinach_lasagna.jpeg",
       "name": "Lasagna",
       "ingredients": [
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": "7",
       "image": "imgs/Mango-Berry Smoothie.jpeg",
       "name": "Fruit Smoothie",
       "ingredients": [
@@ -147,10 +147,16 @@
       ]
     },
     {
-      "id": 8,
+      "id": "8",
       "image": "imgs/cheese_omelette.jpeg",
       "name": "Cheese Omelette",
-      "ingredients": ["eggs", "cheese", "salt", "pepper", "butter"],
+      "ingredients": [
+        "eggs",
+        "cheese",
+        "salt",
+        "pepper",
+        "butter"
+      ],
       "steps": [
         "Crack eggs into a bowl and whisk with salt and pepper.",
         "Heat butter in a pan and pour in the egg mixture.",
@@ -159,7 +165,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": "9",
       "image": "imgs/fried_rice.jpeg",
       "name": "Fried Rice",
       "ingredients": [
@@ -180,7 +186,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": "10",
       "image": "imgs/chocolate_cake.jpeg",
       "name": "Chocolate Cake",
       "ingredients": [
