@@ -16,10 +16,10 @@ Welcome to the **Recipe App** — a creative and interactive web application tha
 
 ##  Tech Stack
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- **JSON Server** (for mock backend)
+- **HTML5
+- **CSS3
+- **JavaScript 
+- **JSON Server
 
 ---
 
