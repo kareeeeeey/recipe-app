@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const baseURL = "http://localhost:6006/recipes";
+  const baseURL = "https://recipe-json-server.vercel.app/recipes";
   const recipeContainer = document.getElementById("recipes-container");
   const form = document.getElementById("recipe-form");
 
