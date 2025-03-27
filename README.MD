@@ -16,8 +16,8 @@ Welcome to the **Recipe App** — a creative and interactive web application tha
 
 ##  Tech Stack
 
-- **HTML5
-- **CSS3
+- **HTML
+- **CSS
 - **JavaScript 
 - **JSON Server
 
