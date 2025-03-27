@@ -2,8 +2,8 @@
   "recipes": [
     {
       "id": "1",
-      "image": "imgs/spaghetti.jpeg",
-      "name": "pasta_carbonara.jpeg",
+      "image": "imgs/pasta_carbonara.jpeg",
+      "name": "pasta carbonara",
       "ingredients": [
         "salt",
         "sugar",
